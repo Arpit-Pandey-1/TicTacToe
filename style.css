@@ -102,7 +102,7 @@ nav ul {
   }
   .gameInfo h1{
     margin-left: 50px;
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .container{
     grid-template-rows: repeat(3, 20vw);
@@ -119,6 +119,7 @@ nav ul {
     margin-left: 50px;
   }
   .imgBox img{
+    height: 60px
     margin: 0 50px;
   }
 }
